@@ -52,10 +52,8 @@ textarea::placeholder {
     font-weight: bold;
     color: #ffffff;
     border-radius: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 15px 5px 15px;
+
 }
 
 
